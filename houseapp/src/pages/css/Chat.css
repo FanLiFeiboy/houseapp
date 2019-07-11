@@ -1,0 +1,32 @@
+
+.chat{
+    padding: 50% 10%;
+}
+.center{
+background:#fff;
+text-align: center;
+
+}
+.center img{
+    width: 100px;
+    margin-top: 10%;
+    
+}
+.center h4{
+    margin-top: 5%;
+}
+
+.center h4 span{
+    color: #33A3F4;
+}
+.center p{
+    margin-top: 3%;
+}
+.center button{
+    width: 100px;
+    height: 40px;
+    margin: 10% 0 ;
+    background: #33A3F4;
+    border: none;
+    border-radius: 5px;
+}

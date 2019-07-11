@@ -1,0 +1,48 @@
+#root,html,body{
+    height: 100%;
+    position: relative;
+}
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+
+
+
+.better{
+    height: 667px;
+    overflow: auto;
+    
+}
+.gethouselist{
+    padding-bottom: 90px;
+}
+
+
+
+
+
+.houselist{
+    display: flex;
+}
+.am-list-item div.am-list-line-multiple {
+    padding: 5px 5px 5px 0;
+}
+div.am-list-item {
+    padding-left: 10px;
+}
+.font h3{
+    font-size: 16px;
+}
+.font p{
+    font-size: 12px;
+    color: #ccc;
+}
+.font{
+    margin-left: 5%;
+}
+
+.am-list-item .am-list-line div.am-list-extra {
+        color: red;
+}

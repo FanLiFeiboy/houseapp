@@ -1,0 +1,92 @@
+
+.serch{
+    height: 50px;
+    background:#33A3F4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+label{
+    color: #fff;    
+}
+img{
+    width: 25px;
+}
+.serch-div{
+    height: 40px;
+    width: 70%;
+    background: #fff;
+    border-radius:20px;
+    display: flex;
+    align-items: center;
+}
+.serch-div>label{
+    color: #ccc;
+    
+}
+.serch-div>img{
+    margin-left: 3%;
+    margin-right: 3%;  
+    
+}
+.am-grid.am-grid-square .am-grid-item .am-grid-item-inner-content img.am-grid-icon {
+    width: 50% !important;
+}
+
+
+/* 中间导航 */
+.todolist{
+    background: #fff;
+    margin: 5% 0px;
+}  
+.todolist>p{
+    font-size: 14px;
+    font-weight: bold;
+    color: #33A3F4;
+    margin-left:7%;
+}
+.todolist>p>span{
+    font-size: 12px;
+    font-weight: normal;
+    color: #ccc;
+
+}
+
+
+/* 底部猜你喜欢 */
+/* 
+.better{
+    height: 667px;
+    overflow: auto;
+    
+}
+.gethouselist{
+    padding-bottom: 90px;
+}
+
+
+
+.houselist{
+    display: flex;
+}
+.am-list-item div.am-list-line-multiple {
+    padding: 5px 5px 5px 0;
+}
+div.am-list-item {
+    padding-left: 10px;
+}
+.font h3{
+    font-size: 16px;
+}
+.font p{
+    font-size: 12px;
+    color: #ccc;
+}
+.font{
+    margin-left: 5%;
+}
+
+.am-list-item .am-list-line div.am-list-extra {
+        color: red;
+} */

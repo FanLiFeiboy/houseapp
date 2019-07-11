@@ -1,0 +1,27 @@
+.city{
+    width: 100%;
+}
+.cityBs{
+    height: 667px;
+    width: 95%;
+    overflow: auto;
+}
+
+.listStyle{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+    line-height: 30px;
+}
+.titleStyle{
+    background: #ccc;
+    padding-left: 5%;
+    line-height: 20px;
+}
+.cityId{
+    position:fixed;
+    top:25%;
+    right:0;
+    width: 5%;
+    text-align: center;
+}
